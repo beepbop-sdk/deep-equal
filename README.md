@@ -48,7 +48,7 @@ Deep equality check with:
 
 - SuperJSON-aware serialization
 - Order-insensitive arrays
-- Stable object key ordering
+- Stable object key orderingg
 
 ```ts
 import { isDeepEqual } from "@bigbang-sdk/local-db";
