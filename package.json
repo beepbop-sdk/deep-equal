@@ -1,6 +1,5 @@
 {
   "name": "@bigbang-sdk/deep-equal",
-  "version": "0.0.1",
   "description": "A library for deep equality comparison using fast-deep-equal and superjson",
   "homepage": "https://github.com/bigbang-sdk/deep-equal",
   "keywords": [
